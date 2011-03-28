@@ -1,0 +1,4 @@
+category: Python
+requires: python3
+sdesc: "Py3K XML/HTML safe string module"
+ldesc: "Implements a XML/HTML/XHTML Markup safe string for Python"
